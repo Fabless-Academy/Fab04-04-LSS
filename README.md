@@ -2,9 +2,9 @@
 
 ## Fabless-Academy DEMO
 
-### 소개 페이지 
+### 팹리스 일경험 4기
 
-- 첫번째
+- [repo link](https://github.com/Fabless-Academy/Fab04-04-LSS)
 - 두번째
   - 하위 첫번째
 
